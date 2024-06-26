@@ -323,8 +323,8 @@ Vip 🌟 :
 
 Pr-ice List💸 :
 Day-->100 Rs
-Week-->400 Rs
-Month-->800 Rs
+To Add In Bot contact Admin
+Admin--> @fadddyop
 '''
     bot.reply_to(message, response)
 
